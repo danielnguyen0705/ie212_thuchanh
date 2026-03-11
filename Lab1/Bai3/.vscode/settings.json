@@ -1,0 +1,234 @@
+{
+    "terminal.integrated.commandsToSkipShell": [
+        ""
+    ],
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.iconTheme": "vscode-icons",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "geminicodeassist.project": "optimistic-set-sln82",
+    "git.autofetch": true,
+    "geminicodeassist.inlineSuggestions.enableAuto": true,
+    "diffEditor.codeLens": true,
+    "diffEditor.maxComputationTime": 0,
+    "http.systemCertificatesNode": true,
+    "editor.linkedEditing": true,
+    "editor.minimap.enabled": false,
+    "editor.rulers": [
+        {
+            "column": 80,
+            "color": "#00FF0010"
+        },
+        {
+            "column": 100,
+            "color": "#BDB76B15"
+        },
+        {
+            "column": 120,
+            "color": "#FA807219"
+        }
+    ],
+    "editor.unicodeHighlight.includeComments": true,
+    "workbench.colorCustomizations": {
+        "[Default Dark Modern]": {
+            "tab.activeBorderTop": "#00FF00",
+            "tab.unfocusedActiveBorderTop": "#00FF0088",
+            "textCodeBlock.background": "#00000055"
+        },
+        "editor.wordHighlightStrongBorder": "#FF6347",
+        "editor.wordHighlightBorder": "#FFD700",
+        "editor.selectionHighlightBorder": "#A9A9A9"
+    },
+    "workbench.editor.revealIfOpen": true,
+    "files.eol": "\n",
+    "[bat]": {
+        "files.eol": "\r\n"
+    },
+    "emmet.variables": {
+        "lang": "en"
+    },
+    "cSpell.diagnosticLevel": "Hint",
+    "trailing-spaces.backgroundColor": "rgba(255,0,0,0.1)",
+    "trailing-spaces.includeEmptyLines": false,
+    "terminal.integrated.tabs.hideCondition": "never",
+    "terminal.integrated.enablePersistentSessions": false,
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.detectJdksAtStart": false,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.debug.settings.hotCodeReplace": "auto",
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.maxConcurrentBuilds": 12,
+    "java.sources.organizeImports.staticStarThreshold": 1,
+    "terminal.integrated.automationProfile.windows": {
+        "path": "cmd"
+    },
+    "java.test.config": {
+        "vmArgs": [
+            "-Dstdout.encoding=UTF-8",
+            "-Dstderr.encoding=UTF-8"
+        ]
+    },
+    "maven.executable.path": "C:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\maven\\latest\\bin\\mvn",
+    "java.import.gradle.home": "C:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\gradle\\latest",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "C:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\17"
+        },
+        {
+            "name": "JavaSE-21",
+            "path": "C:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\21"
+        },
+        {
+            "name": "JavaSE-25",
+            "path": "C:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\latest",
+            "default": true
+        }
+    ],
+    "terminal.integrated.profiles.windows": {
+        "JavaSE-17 LTS": {
+            "overrideName": true,
+            "env": {
+                "PATH": "C:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\17\\bin;${env:PATH}",
+                "JAVA_HOME": "C:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\17"
+            },
+            "path": "cmd"
+        },
+        "JavaSE-21 LTS": {
+            "overrideName": true,
+            "env": {
+                "PATH": "C:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\21\\bin;${env:PATH}",
+                "JAVA_TOOL_OPTIONS": "-Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8",
+                "JAVA_HOME": "C:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\21"
+            },
+            "path": "cmd",
+            "args": [
+                "/k",
+                "chcp",
+                "65001"
+            ]
+        },
+        "JavaSE-25 LTS": {
+            "overrideName": true,
+            "env": {
+                "PATH": "C:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\latest\\bin;${env:PATH}",
+                "JAVA_TOOL_OPTIONS": "-Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8",
+                "JAVA_HOME": "C:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\latest"
+            },
+            "path": "cmd",
+            "args": [
+                "/k",
+                "chcp",
+                "65001"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "JavaSE-25 LTS",
+    "terminal.integrated.env.windows": {
+        "JAVA_HOME": "C:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\latest",
+        "PATH": "C:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\latest\\bin;${env:PATH}"
+    },
+    "maven.terminal.customEnv": [
+        {
+            "environmentVariable": "JAVA_HOME",
+            "value": "/home/daniel/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/java/latest"
+        }
+    ],
+    "java.import.gradle.java.home": "C:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\latest",
+    "redhat.telemetry.enabled": true,
+    "cSpell.enabledSchemes": {
+        "comment": true,
+        "file": true,
+        "gist": true,
+        "repo": true,
+        "sftp": true,
+        "untitled": true,
+        "vscode-notebook-cell": true,
+        "vscode-scm": true,
+        "vscode-userdata": true,
+        "vscode-vfs": true,
+        "vsls": true,
+        "overleaf-workshop": true
+    },
+    "latex-workshop.latex.recipes": [
+        {
+            "name": "Chay bang pdflatex",
+            "tools": [
+                "pdflatex"
+            ]
+        }
+    ],
+    "latex-workshop.latex.recipe.default": "first",
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "env": {
+                "JAVA_HOME": "/home/daniel/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/java/latest"
+            },
+            "args": [
+                "--rcfile",
+                "/home/daniel/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/.bashrc"
+            ]
+        },
+        "JavaSE-1.8 LTS": {
+            "overrideName": true,
+            "env": {
+                "JAVA_HOME": "/usr/lib/jvm/java-8-openjdk-amd64"
+            },
+            "path": "bash",
+            "args": [
+                "--rcfile",
+                "/home/daniel/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/.bashrc"
+            ]
+        },
+        "JavaSE-17 LTS": {
+            "overrideName": true,
+            "env": {
+                "JAVA_HOME": "/home/daniel/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/java/17"
+            },
+            "path": "bash",
+            "args": [
+                "--rcfile",
+                "/home/daniel/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/.bashrc"
+            ]
+        },
+        "JavaSE-21 LTS": {
+            "overrideName": true,
+            "env": {
+                "JAVA_HOME": "/home/daniel/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/java/21"
+            },
+            "path": "bash",
+            "args": [
+                "--rcfile",
+                "/home/daniel/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/.bashrc"
+            ]
+        },
+        "JavaSE-25 LTS": {
+            "overrideName": true,
+            "env": {
+                "JAVA_HOME": "/home/daniel/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/java/latest"
+            },
+            "path": "bash",
+            "args": [
+                "--rcfile",
+                "/home/daniel/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/.bashrc"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.linux": "JavaSE-25 LTS",
+    "java.configuration.runtimes": [
+            {
+                "name": "JavaSE-1.8",
+                "path": "/usr/lib/jvm/java-8-openjdk-amd64",
+                "default": true
+            }
+        ],
+    "java.project.referencedLibraries": [
+        "/usr/local/hadoop/share/hadoop/common/**/*.jar",
+        "/usr/local/hadoop/share/hadoop/mapreduce/**/*.jar",
+        "/usr/local/hadoop/share/hadoop/hdfs/**/*.jar",
+        "/usr/local/hadoop/share/hadoop/yarn/**/*.jar"
+    ]
+}
+
