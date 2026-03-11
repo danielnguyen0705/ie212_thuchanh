@@ -1,6 +1,1 @@
-*.class
-*.jar
-*/bin/
-*/output*/
-*/input/
-.vscode/
+
