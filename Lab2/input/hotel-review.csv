@@ -1,4 +1,3 @@
-id;review;aspect;category;sentiment
 1;Vừa qua tôi có dùng dịch vụ tại Khách Sạn TTC Hotel Premium Ngọc Lan Ngọc Lan Đà Lạt.;GENERAL;HOTEL;positive
 1;Vừa qua tôi có dùng dịch vụ tại Khách Sạn TTC Hotel Premium Ngọc Lan Ngọc Lan Đà Lạt.;GENERAL;SERVICE;positive
 2;Tuy nhiên buffet sáng ở đây không được ngon và chưa đa dạng lắm.;QUALITY;FOOD&DRINKS;negative
@@ -1840,7 +1839,7 @@ id;review;aspect;category;sentiment
 1118;Tóm lại, Hotel Saphir rất đẹp khi thấy hình ảnh trên mạng quảng cáo, nhưng chúng tôi rất thất vọng vì sự thiết kế kiểu xưa nhưng lại xài những đồ quá củ kỷ, nhấtt là trong phòng tắm và phònC lại quá lạnh.;DESIGN&FEATURES;HOTEL;negative
 1118;Tóm lại, Hotel Saphir rất đẹp khi thấy hình ảnh trên mạng quảng cáo, nhưng chúng tôi rất thất vọng vì sự thiết kế kiểu xưa nhưng lại xài những đồ quá củ kỷ, nhấtt là trong phòng tắm và phònC lại quá lạnh.;COMFORT;ROOMS;negative
 1119;Nói chung thì tiện nghi không phải chê gì.;GENERAL;FACILITIES;neutral
-1120;"Chỉ có 1 điểm rất yếu của khách sạn là sử dụng hệ thống nước nóng quá cổ, khó sử dụng bình nước nóng hoạt động kém, lúc nóng lúc lạnh trong khi thời tiết Đà Lạt thì rất lạnh ; hệ thống nước + vòi nên thay lại cho dễ sử dụng.";QUALITY;ROOM_AMENITIES;negative
+1120;"Chỉ có 1 điểm rất yếu của khách sạn là sử dụng hệ thống nước nóng quá cổ, khó sử dụng bình nước nóng hoạt động kém, lúc nóng lúc lạnh trong khi thời tiết Đà Lạt thì rất lạnh, hệ thống nước + vòi nên thay lại cho dễ sử dụng.";QUALITY;ROOM_AMENITIES;negative
 1121;Khách sạn tọa lạc gần trung tâm, chỉ mất vài phút đi bộ đến chợ Đà Lạt, thiết kế đẹp, phòng rộng rãi, tiện nghi.;GENERAL;LOCATION;positive
 1122;Nhân viên khách sạn rất thân thiện.;GENERAL;SERVICE;positive
 1123;Khách sạn khá thoải mái và yên tĩnh.;COMFORT;HOTEL;positive
@@ -1957,7 +1956,7 @@ id;review;aspect;category;sentiment
 1201;Họ đã không bỏ lỡ một chi tiết nào.;GENERAL;HOTEL;positive
 1202;Nghiêm túc;GENERAL;HOTEL;positive
 1203;Các nhân viên cũng tuyệt vời.;GENERAL;SERVICE;positive
-1204;"Nó nằm trên một ngọn đồi cao ngay cả khi bạn có tầng hầm; phòng cấp bên dưới tầng chính, tầm nhìn của bạn nhìn ra thành phố xinh đẹp với những ngọn núi ở phía sau.";GENERAL;LOCATION;positive
+1204;"Nó nằm trên một ngọn đồi cao ngay cả khi bạn có tầng hầm, phòng cấp bên dưới tầng chính, tầm nhìn của bạn nhìn ra thành phố xinh đẹp với những ngọn núi ở phía sau.";GENERAL;LOCATION;positive
 1205;Tôi sẽ dễ dàng trả 100 nghìn cho nơi này.;GENERAL;HOTEL;positive
 1206;tôi sẽ dừng ngay bây giờ, chỉ ở lại đây và quay lại sau.;GENERAL;HOTEL;positive
 1207;Tôi rất hài lòng khi chọn Mũi Né Paradise Beach Resort để dừng chân trú ngụ.;COMFORT;HOTEL;positive
@@ -2947,7 +2946,7 @@ id;review;aspect;category;sentiment
 1818;Mọi thứ đáp ứng đầy đủ và khá tốt các nhu cầu của gia đình tôi từ vị trí, giá cả đến tiện nghi đi kèm cũng như hệ thống phòng ốc và nhân viên phục vụ.;GENERAL;LOCATION;positive
 1818;Mọi thứ đáp ứng đầy đủ và khá tốt các nhu cầu của gia đình tôi từ vị trí, giá cả đến tiện nghi đi kèm cũng như hệ thống phòng ốc và nhân viên phục vụ.;PRICES;HOTEL;positive
 1818;Mọi thứ đáp ứng đầy đủ và khá tốt các nhu cầu của gia đình tôi từ vị trí, giá cả đến tiện nghi đi kèm cũng như hệ thống phòng ốc và nhân viên phục vụ.;GENERAL;ROOMS;positive
-1819;"Khách sạn không hẳn sát mặt biển, mà quẹo vào 1 chút nhưng không ảnh hưởng nhiều ; dễ dàng ra tắm biển ở Bãi Sau.";GENERAL;LOCATION;positive
+1819;"Khách sạn không hẳn sát mặt biển, mà quẹo vào 1 chút nhưng không ảnh hưởng nhiều, dễ dàng ra tắm biển ở Bãi Sau.";GENERAL;LOCATION;positive
 1820;Buffet sáng ổn.;QUALITY;FOOD&DRINKS;neutral
 1821;Phòng cũng sạch sẽ, tôi thấy không có gì phàn nàn khi nghỉ ở khách sạn Blue Sea.;CLEANLINESS;ROOMS;positive
 1822;Sau đó, nhân viên hỗ trợ tôi đổi phòng khác thì máy điều hoà bị chảy nước.;QUALITY;ROOM_AMENITIES;negative
@@ -6554,7 +6553,7 @@ id;review;aspect;category;sentiment
 4004;Nhân viên phục vụ nhanh chóng và tạo cho tôi cảm giác thoải mái trong thời gian ở đây.;GENERAL;SERVICE;positive
 4004;Nhân viên phục vụ nhanh chóng và tạo cho tôi cảm giác thoải mái trong thời gian ở đây.;COMFORT;HOTEL;positive
 4005;Chất lượng phòng như vậy là ổn.;QUALITY;ROOMS;positive
-4006;"Quang cảnh của khu resort cũng khá đẹp ; cộng với nhiều cây cối tạo cho resort rất mát vẻ và tự nhiên.";DESIGN&FEATURES;HOTEL;positive
+4006;"Quang cảnh của khu resort cũng khá đẹp, cộng với nhiều cây cối tạo cho resort rất mát vẻ và tự nhiên.";DESIGN&FEATURES;HOTEL;positive
 4007;Cây cối nhiều nên có cảnh quan thoáng đãng.;DESIGN&FEATURES;HOTEL;positive
 4008;Tôi rất hài lòng về khu này.;COMFORT;HOTEL;positive
 4009;Phòng đẹp, thoáng mát và sạch sẽ.;DESIGN&FEATURES;ROOMS;positive
@@ -6761,7 +6760,7 @@ id;review;aspect;category;sentiment
 4149;Nhân viên phục vụ nhiệt tình, phòng sạch sẽ, chất lượng bữa ăn tốt.;QUALITY;FOOD&DRINKS;positive
 4150;- Nhân viên bán vé + Nhân Viên soát vé vào khu Đảo Khỉ không trung thực nhặt vé cũ bán lại, không xé vé Kết Luận:Tôi rất thích Cần Giờ vì đi gần + rừng cây, sông rạch, .;GENERAL;SERVICE;negative
 4151;Nhưng có lẽ tôi không ghé lại lần sau mà sẽ chọn một Resort khác.;GENERAL;HOTEL;negative
-4152;"Két sắt thì bị hư, sau 1 hồi thăm khám; kỹ thuật đành chọn phương án: bưng nguyên cái ở phòng khác vào thay vì cái kia không sửa được !";MISCELLANEOUS;ROOM_AMENITIES;negative
+4152;"Két sắt thì bị hư, sau 1 hồi thăm khám, kỹ thuật đành chọn phương án: bưng nguyên cái ở phòng khác vào thay vì cái kia không sửa được !";MISCELLANEOUS;ROOM_AMENITIES;negative
 4153;Hồ bơi thì quá đông mà hệ thống lọc thì quá tệ, nước lúc nào cũng đục ngầu không dám tắm.;MISCELLANEOUS;FACILITIES;negative
 4153;Hồ bơi thì quá đông mà hệ thống lọc thì quá tệ, nước lúc nào cũng đục ngầu không dám tắm.;CLEANLINESS;FACILITIES;negative
 4154;Cảm giác thật thoải mái khi nghỉ ngơi tại đây, mình thích nhất là thiên nhiên ở đây.;COMFORT;HOTEL;positive
@@ -8022,8 +8021,8 @@ id;review;aspect;category;sentiment
 4891;Khách Sạn Mường Thanh Grand Đà Nẵng tôi có chọn đặt phòng giúp người quen.;GENERAL;HOTEL;positive
 4892;Vì thế, nếu có đánh giá tôi sẽ đánh giá khách sạn tốt.;GENERAL;HOTEL;positive
 4893;Nhìn chung thì tôi cũng hài lòng và không có phàn nàn gì về nơi đây.;COMFORT;HOTEL;positive
-4894;"Điểm cộng:tiện nghi đầy đủ, thiết kế khang trang ; Vị trí đi lại tham quan dễ dàng.";GENERAL;LOCATION;positive
-4894;"Điểm cộng:tiện nghi đầy đủ, thiết kế khang trang ; Vị trí đi lại tham quan dễ dàng.";GENERAL;ROOM_AMENITIES;positive
+4894;"Điểm cộng:tiện nghi đầy đủ, thiết kế khang trang Vị trí đi lại tham quan dễ dàng.";GENERAL;LOCATION;positive
+4894;"Điểm cộng:tiện nghi đầy đủ, thiết kế khang trang Vị trí đi lại tham quan dễ dàng.";GENERAL;ROOM_AMENITIES;positive
 4895;Điểm trừ:Không có bảng kê chi tiết số lượng nước uống trong minibar, nên khi trả phòng tôi gặp trục trặc khi tôi không dùng bia mà nhân viên lại nói có.;MISCELLANEOUS;FACILITIES;negative
 4896;Tôi góp ý là khách sạn nên sắp xếp phòng đầy đủ và kỹ càng hơn hoặc có bảng kê chi tiết.;MISCELLANEOUS;ROOM_AMENITIES;negative
 4896;Tôi góp ý là khách sạn nên sắp xếp phòng đầy đủ và kỹ càng hơn hoặc có bảng kê chi tiết.;MISCELLANEOUS;FACILITIES;negative
@@ -9631,10 +9630,10 @@ id;review;aspect;category;sentiment
 5871;- Ăn sáng tệ, ít món và chế biến kém - Phòng kém, ban công hướng ra nhà dân, rất ồn ào, cách âm kém - Nhân viên kém chuyên nghiệp, không hỗ trợ được khách nhiều.;COMFORT;ROOMS;negative
 5871;- Ăn sáng tệ, ít món và chế biến kém - Phòng kém, ban công hướng ra nhà dân, rất ồn ào, cách âm kém - Nhân viên kém chuyên nghiệp, không hỗ trợ được khách nhiều.;GENERAL;SERVICE;negative
 5872;Thời tiết đẹp và hơn thế, một khách sạn trên cả mong đợi đã làm cho chúng tôi có ấn tượng thật đẹp về thành phố nghìn hoa.;GENERAL;HOTEL;positive
-5873;"Phòng khách sạn rộng rãi, tiện nghi, có ban công nhìn ra Hồ Xuân Hương rất đẹp ; phố đi bộ ngay trước khách sạn thuận tiện cho việc đi dạo chợ đêm.";DESIGN&FEATURES;ROOMS;positive
-5873;"Phòng khách sạn rộng rãi, tiện nghi, có ban công nhìn ra Hồ Xuân Hương rất đẹp ; phố đi bộ ngay trước khách sạn thuận tiện cho việc đi dạo chợ đêm.";COMFORT;ROOMS;positive
-5873;"Phòng khách sạn rộng rãi, tiện nghi, có ban công nhìn ra Hồ Xuân Hương rất đẹp ; phố đi bộ ngay trước khách sạn thuận tiện cho việc đi dạo chợ đêm.";GENERAL;ROOMS;positive
-5873;"Phòng khách sạn rộng rãi, tiện nghi, có ban công nhìn ra Hồ Xuân Hương rất đẹp ; phố đi bộ ngay trước khách sạn thuận tiện cho việc đi dạo chợ đêm.";GENERAL;LOCATION;positive
+5873;"Phòng khách sạn rộng rãi, tiện nghi, có ban công nhìn ra Hồ Xuân Hương rất đẹp, phố đi bộ ngay trước khách sạn thuận tiện cho việc đi dạo chợ đêm.";DESIGN&FEATURES;ROOMS;positive
+5873;"Phòng khách sạn rộng rãi, tiện nghi, có ban công nhìn ra Hồ Xuân Hương rất đẹp, phố đi bộ ngay trước khách sạn thuận tiện cho việc đi dạo chợ đêm.";COMFORT;ROOMS;positive
+5873;"Phòng khách sạn rộng rãi, tiện nghi, có ban công nhìn ra Hồ Xuân Hương rất đẹp, phố đi bộ ngay trước khách sạn thuận tiện cho việc đi dạo chợ đêm.";GENERAL;ROOMS;positive
+5873;"Phòng khách sạn rộng rãi, tiện nghi, có ban công nhìn ra Hồ Xuân Hương rất đẹp, phố đi bộ ngay trước khách sạn thuận tiện cho việc đi dạo chợ đêm.";GENERAL;LOCATION;positive
 5874;Vị trí rất gần chợ Đà Lạt và các khu giải trí gần đó.;GENERAL;LOCATION;positive
 5875;Dễ dàng thưởng thức các món ăn chơi ở chợ đêm như:sữa đậu nành, Cháo hến, Ốc, bánh tráng nướng, các xiên nướng.;GENERAL;LOCATION;positive
 5876;Ngọc Lan toạ lạc ở một vị trí đẹp, ngay trung tâm thành phố.;GENERAL;LOCATION;positive
@@ -11081,9 +11080,9 @@ id;review;aspect;category;sentiment
 6749;Chất lượng cơ sở vật chất tạm ổn, nhân viên phục vụ ok, giá tiền mềm nên cũng không yêu cầu gì nhiều.;PRICES;HOTEL;positive
 6750;Tôi cảm thấy khá thoải mái khi nghỉ tại nơi đây.;COMFORT;HOTEL;positive
 6751;Resort này thích hợp cho kỳ nghỉ ngắn ngày cuối tuần bởi rất gần thành phố Hồ Chí Minh.;GENERAL;HOTEL;positive
-6752;"Thứ 2, phục vụ bữa sáng dở, tôi ăn đúng món bún mộc, còn lại không ăn được món nào nữa cả ; còn về trái cây tráng miệng thì dưa hấu thối có mùi, thơm chua mà gọt còn sát vỏ, giống kiểu gọt nấu canh vậy đó.";GENERAL;SERVICE;negative
-6752;"Thứ 2, phục vụ bữa sáng dở, tôi ăn đúng món bún mộc, còn lại không ăn được món nào nữa cả ; còn về trái cây tráng miệng thì dưa hấu thối có mùi, thơm chua mà gọt còn sát vỏ, giống kiểu gọt nấu canh vậy đó.";STYLE&OPTIONS;FOOD&DRINKS;negative
-6752;"Thứ 2, phục vụ bữa sáng dở, tôi ăn đúng món bún mộc, còn lại không ăn được món nào nữa cả ; còn về trái cây tráng miệng thì dưa hấu thối có mùi, thơm chua mà gọt còn sát vỏ, giống kiểu gọt nấu canh vậy đó.";QUALITY;FOOD&DRINKS;negative
+6752;"Thứ 2, phục vụ bữa sáng dở, tôi ăn đúng món bún mộc, còn lại không ăn được món nào nữa cả, còn về trái cây tráng miệng thì dưa hấu thối có mùi, thơm chua mà gọt còn sát vỏ, giống kiểu gọt nấu canh vậy đó.";GENERAL;SERVICE;negative
+6752;"Thứ 2, phục vụ bữa sáng dở, tôi ăn đúng món bún mộc, còn lại không ăn được món nào nữa cả, còn về trái cây tráng miệng thì dưa hấu thối có mùi, thơm chua mà gọt còn sát vỏ, giống kiểu gọt nấu canh vậy đó.";STYLE&OPTIONS;FOOD&DRINKS;negative
+6752;"Thứ 2, phục vụ bữa sáng dở, tôi ăn đúng món bún mộc, còn lại không ăn được món nào nữa cả, còn về trái cây tráng miệng thì dưa hấu thối có mùi, thơm chua mà gọt còn sát vỏ, giống kiểu gọt nấu canh vậy đó.";QUALITY;FOOD&DRINKS;negative
 6753;Nhân viên thì làm việc cũng lịch sự, thân thiện.;GENERAL;SERVICE;positive
 6754;Vừa rồi, tôi có đặt phòng ở Cần Giờ Resort dùm người quen của mình.;GENERAL;HOTEL;positive
 6755;Ngoài ra cung cách nhân viên cũng dễ gần, nhiệt tình hỗ trợ.;GENERAL;SERVICE;positive
